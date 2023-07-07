@@ -1,0 +1,55 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.bg-custom1 {
+  background-color: #212d92;
+}
+
+.bg-custom {
+  background-color: #565fb6;
+}
+
+.form-custom {
+  background-color: #4b51de;
+}
+
+.box-area {
+  width: 930px;
+}
+
+.custom-link {
+  color: #000000;
+}
+
+.right-box {
+  padding: 40px 30px 40px 40px;
+}
+
+.left-box {
+  background: #212d92;
+}
+
+.img-login {
+  width: 250px;
+}
+
+/* Placeholder */
+::placeholder {
+  font-size: 16px;
+}
+
+.btn-custom {
+  background-color: #4b51de;
+  border: 2px solid #000;
+}
+
+.text-custom {
+  background-color: #4b51de;
+  font-size: 57px;
+  border: 2px solid #212d92;
+  color: #ffffff;
+  border-radius: 10px;
+  padding: 10px;
+  display: inline-block;
+}
